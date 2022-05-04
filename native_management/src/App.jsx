@@ -7,7 +7,9 @@
 // import NameList from "./components/NameList";
 // import NameListReducer from "./components/NamelistReducer";
 // import UserForm from "./components/UserForm";
-import Memo from "./components/Memo";
+// import Memo from "./components/Memo";
+// import Effect from "./components/Effect";
+import StopWatch from "./components/StopWatch";
 
 function App() {
   return (
@@ -20,7 +22,9 @@ function App() {
       {/* <NameList/> */}
       {/* <NameListReducer/><br /><br /><br /> */}
       {/* <UserForm/> */}
-      <Memo/>
+      {/* <Memo/> */}
+      {/* <Effect/> */}
+      <StopWatch/>
 
     </>
   );
