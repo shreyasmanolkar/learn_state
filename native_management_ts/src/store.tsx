@@ -21,8 +21,6 @@ function usePokemonSource(): {
   search: string;
   setSearch: (search: string) => void;
 }{
-//   const [pokemon, setPokemon] = useState<Pokemon[]>([]);
-//   const [search, setSearch] = useState("");
 
 type PokemonState = {
     pokemon: Pokemon[];
