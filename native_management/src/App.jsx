@@ -9,7 +9,8 @@
 // import UserForm from "./components/UserForm";
 // import Memo from "./components/Memo";
 // import Effect from "./components/Effect";
-import StopWatch from "./components/StopWatch";
+// import StopWatch from "./components/StopWatch";
+import Ref from "./components/Ref";
 
 function App() {
   return (
@@ -24,8 +25,8 @@ function App() {
       {/* <UserForm/> */}
       {/* <Memo/> */}
       {/* <Effect/> */}
-      <StopWatch/>
-
+      {/* <StopWatch/> */}
+      <Ref/>
     </>
   );
 }
